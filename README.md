@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ns2630@srmist.edu.in**
 
-- 📄 Know about my experiences [Nilanshu's Resume](http://bit.ly/3EAOPeA)
+- 📄 Know about my experiences [Resume](http://bit.ly/3EAOPeA)
 
 - ⚡ Fun fact **I think I am funny**
 
