@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilanshucodes&label=Profile%20views&color=0e75b6&style=flat" alt="nilanshucodes" /> </p>
 
-- 🔭 I’m currently working on **Project SAMADHAN**
+- 🔭 I’m currently working on **Project AlgoRadar**
 
 - 🌱 I’m currently learning **Flask,DSA,WEB DEV**
 
