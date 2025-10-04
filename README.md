@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Project AlgoRadar**
 
-- 🌱 I’m currently learning **Flask,DSA,WEB DEV**
+- 🌱 I’m currently learning **DSA,WEB DEV**
 
-- 💬 Ask me about **C++,Python,Flask**
+- 💬 Ask me about **C++,Python**
 
 - 📫 How to reach me **ns2630@srmist.edu.in**
 
