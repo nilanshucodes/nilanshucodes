@@ -30,8 +30,13 @@
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=nilanshucodes&animated=true&border=no-border&theme=github-dark)
 
+### My Leetcode Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+   <img src="Assets_Used/LeetCodeBadges/2024-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+</div>
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilanshucodes&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilanshucodes&theme=github_dark)
 
@@ -39,4 +44,8 @@
 
 [![An image of @nilanshucodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nilanshucodes)](https://holopin.io/@nilanshucodes)
 
-<img src="https://komarev.com/ghpvc/?username=nilanshucodes&label=Profile%20views&color=0e75b6&style=flat" alt="nilanshucodes" /> 
+
+<img align="left" src="https://komarev.com/ghpvc/?username=nilanshucodes&label=Profile%20views&color=0e75b6&style=flat" alt="nilanshucodes" /> 
+<a href="https://github.com/nilanshucodes">
+    <img src="https://img.shields.io/github/followers/nilanshucodes?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
+</a>
