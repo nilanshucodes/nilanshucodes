@@ -1,5 +1,6 @@
 [![Peerlist](https://github-readme-badge.peerlist.io/api/sharmanil30)](https://peerlist.io/sharmanil30)
 [![wakatime](https://wakatime.com/badge/user/b33d8a01-fb17-4d8b-a8c4-9c2fd1240394.svg)](https://wakatime.com/@b33d8a01-fb17-4d8b-a8c4-9c2fd1240394)
+
 <h1 align="center">Hi 👋, I'm Nilanshu sharma</h1>
 <h3 align="center">A passionate learner from India</h3>
 
@@ -27,7 +28,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={nilanshucodes}&theme={transparent}" alt="LeetCode Badges" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilanshucodes&show_icons=true&locale=en" alt="nilanshucodes" /></p>
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=nilanshucodes&animated=true&border=no-border&theme=github-dark)
+
+
+## 📈 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilanshucodes&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilanshucodes&theme=github_dark)
+
+## 🏅 Badges
+
+[![An image of @nilanshucodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nilanshucodes)](https://holopin.io/@nilanshucodes)
 
 <img src="https://komarev.com/ghpvc/?username=nilanshucodes&label=Profile%20views&color=0e75b6&style=flat" alt="nilanshucodes" /> 
