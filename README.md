@@ -47,3 +47,4 @@
 <a href="https://github.com/nilanshucodes">
     <img src="https://img.shields.io/github/followers/nilanshucodes?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
+![Snake animation](https://github.com/nilanshucodes/nilanshucodes/blob/output/github-contribution-grid-snake.svg)
