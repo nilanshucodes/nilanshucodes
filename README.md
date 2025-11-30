@@ -22,12 +22,27 @@
 
 ## 🤝 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/nilanshusharma"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://kaggle.com/nilanshucodes"><img src="https://skillicons.dev/icons?i=kaggle" height="40" /></a>
-  <a href="https://leetcode.com/nilanshucodes"><img src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
-  <a href="https://www.hackerrank.com/nilanshucodes"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/nilanshucodes/profile"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40" /></a>
+  <a href="https://linkedin.com/in/nilanshusharma">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <a href="https://kaggle.com/nilanshucodes">
+    <img src="https://skillicons.dev/icons?i=kaggle" height="40" />
+  </a>
+
+  <a href="https://leetcode.com/nilanshucodes">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+  </a>
+
+  <a href="https://www.hackerrank.com/nilanshucodes">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/nilanshucodes/profile">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GeeksForGeeks-Light.svg" height="40"/>
+  </a>
 </p>
+
 
 ---
 
