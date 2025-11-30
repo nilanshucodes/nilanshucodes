@@ -1,17 +1,32 @@
-name: Generate Datas
+name: Generate Snake
+
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
+
 jobs:
   build:
-    name: Jobs to update datas
-    runs-on: macos
+    name: Generate Snake Animation
+    runs-on: ubuntu-latest
+
     steps:
-    - uses: Platane/snk/svg-only@v3
-      with:
-        github_user_name: nilanshucodes
-        outputs: |
-          dist/github-snake.svg
-          dist/github-snake-dark.svg?palette=github-dark
-          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG & GIF
+        uses: Platane/snk@v3
+        with:
+          github_user_name: nilanshucodes
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+
+      - name: Push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dist/*
+          git commit -m "Update snake animation" || echo "No changes"
+          git push
