@@ -21,27 +21,25 @@
 ---
 
 ## 🤝 Connect With Me  
+<!-- Connect With Me - Dark/Light safe (Shields.io badges) -->
 <p align="center">
-  <a href="https://linkedin.com/in/nilanshusharma">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://linkedin.com/in/nilanshusharma" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-
-  <a href="https://kaggle.com/nilanshucodes">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="40" />
+  <a href="https://kaggle.com/nilanshucodes" target="_blank" rel="noopener">
+    <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" />
   </a>
-
-  <a href="https://leetcode.com/nilanshucodes">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+  <a href="https://leetcode.com/nilanshucodes" target="_blank" rel="noopener">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-F89F1B?logo=leetcode&logoColor=white&style=for-the-badge" />
   </a>
-
-  <a href="https://www.hackerrank.com/nilanshucodes">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
+  <a href="https://www.hackerrank.com/nilanshucodes" target="_blank" rel="noopener">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" />
   </a>
-
-  <a href="https://auth.geeksforgeeks.org/user/nilanshucodes/profile">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GeeksForGeeks-Light.svg" height="40"/>
+  <a href="https://auth.geeksforgeeks.org/user/nilanshucodes/profile" target="_blank" rel="noopener">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-2BAA3D?logo=geeksforgeeks&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 
 
 ---
