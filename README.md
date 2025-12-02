@@ -13,7 +13,7 @@
 
 ## 🌟 About Me  
 - 🔭 Currently building **AlgoRadar**  
-- 🌱 Learning **DSA & Web Development**  
+- 🌱 Learning **DSA & DevOps**  
 - 💬 Ask me about **C++, Python**  
 - 📫 Reach me at **ns2630@srmist.edu.in**  
 - 📄 View my resume → [**Click Here**](https://shorturl.at/70dYw)
