@@ -16,7 +16,7 @@
 - 🌱 Learning **DSA & DevOps**  
 - 💬 Ask me about **C++, Python**  
 - 📫 Reach me at **ns2630@srmist.edu.in**  
-- 📄 View my resume → [**Click Here**](https://shorturl.at/70dYw)
+- 📄 View my resume → [**Click Here**](https://nilanshusharma.vercel.app/download/resume)
 
 ---
 
