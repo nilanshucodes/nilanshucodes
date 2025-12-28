@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently building **AlgoRadar**  
+- 🔭 Currently building **[AlgoRadar](https://chromewebstore.google.com/detail/epmfbchmonbfhpmpkbpjlbdgngkilkea)**  
 - 🌱 Learning **DSA & DevOps**  
 - 💬 Ask me about **C++, Python**  
 - 📫 Reach me at **ns2630@srmist.edu.in**  
