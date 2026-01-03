@@ -28,9 +28,7 @@
   <a href="https://kaggle.com/nilanshucodes" target="_blank" rel="noopener">
     <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/nilanshucodes" target="_blank" rel="noopener">
-    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-F89F1B?logo=leetcode&logoColor=white&style=for-the-badge" />
-  </a>
+
   <a href="https://www.hackerrank.com/nilanshucodes" target="_blank" rel="noopener">
     <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" />
   </a>
