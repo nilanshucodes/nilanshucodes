@@ -56,11 +56,11 @@
 
 ---
 
-## 🏅 LeetCode Badge  
+<!--  ## 🏅 LeetCode Badge  
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="110px" />
 </p>
-
+ -->
 ---
 
 ## 🎖️ Holopin Badges  
