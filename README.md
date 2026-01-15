@@ -1,9 +1,9 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://peerlist.io/sharmanil30"><img src="https://github-readme-badge.peerlist.io/api/sharmanil30" /></a>
-  <a href="https://wakatime.com/@b33d8a01-fb17-4d8b-a8c4-9c2fd1240394">
+  <!-- Connect With Me - Dark/Light safe (Shields.io badges)<a href="https://wakatime.com/@b33d8a01-fb17-4d8b-a8c4-9c2fd1240394">
     <img src="https://wakatime.com/badge/user/b33d8a01-fb17-4d8b-a8c4-9c2fd1240394.svg" />
-  </a>
+  </a> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#4fa3f7">Nilanshu Sharma</span></h1>
