@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | **[algoradar-extension](https://github.com/nilanshucodes/algoradar-extension)** | JavaScript, Chrome API (MV3), Vercel | Cross-platform tracking extension. Ranked **#89 on Peerlist**. Bypasses Cloudflare bot protection by replacing GitHub Actions cron jobs with a local automation script using a residential IP to serve pre-generated static data pipelines with zero runtime API overhead. |
 | **[AlgoRadar (Web)](https://github.com/nilanshucodes/AlgoRadar)** | Python, Flask, PostgreSQL, Vercel | Production-grade contest aggregator with a minimalist responsive card UI. Features a custom backend caching architecture (10-minute TTL) using Flask-Caching to respect downstream API rate limits and maximize load speeds. |
-| **SikkaTrix** *(Private)* | Node.js, Express, TypeScript | Real-time cryptocurrency market data aggregator following a strict controller–service separation pattern. Implements a robust middleware pipeline featuring unique request tracking IDs for structural error isolation and traceability. |
+| **SikkaTrix** *(Stealth)* | Node.js, Express, TypeScript | Real-time cryptocurrency market data aggregator following a strict controller–service separation pattern. Implements a robust middleware pipeline featuring unique request tracking IDs for structural error isolation and traceability. |
 | **[DripFile](https://github.com/nilanshucodes/DripFile)** | Python, Flask, HTML/CSS, Vercel | Temporary file-sharing web application supporting up to 25MB uploads. Engineered a thread-safe background daemon task running every 60 seconds to automatically purge expired files and in-memory dictionary data after 15 minutes. |
 
 
@@ -23,7 +23,7 @@
 
 | Project | Tech Stack | Technical Highlights & Impact |
 | :--- | :--- | :--- |
-|  **HR_Analytics_EDA** *(Private)* | Python, Matplotlib, Pandas | Exploratory Data Analysis and data pipeline **developed for SCL during a corporate internship**. Translates complex enterprise datasets into clean, actionable company metrics. |
+|  **HR_Analytics_EDA** *(Stealth)* | Python, Matplotlib, Pandas | Exploratory Data Analysis and data pipeline **developed for SCL during a corporate internship**. Translates complex enterprise datasets into clean, actionable company metrics. |
 
 
 
