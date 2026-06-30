@@ -23,7 +23,7 @@
 
 | Project | Tech Stack | Technical Highlights & Impact |
 | :--- | :--- | :--- |
-|  **[HR_Analytics_EDA](https://github.com/nilanshucodes/HR_Analytics_EDA)** | Python, Matplotlib, Pandas | Exploratory Data Analysis and data pipeline **developed for SCL during a corporate internship**. Translates complex enterprise datasets into clean, actionable company metrics. |
+|  **HR_Analytics_EDA** *(Private)* | Python, Matplotlib, Pandas | Exploratory Data Analysis and data pipeline **developed for SCL during a corporate internship**. Translates complex enterprise datasets into clean, actionable company metrics. |
 
 
 
