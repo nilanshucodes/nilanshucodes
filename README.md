@@ -10,7 +10,7 @@
 | **[DripFile](https://github.com/nilanshucodes/DripFile)** | Python, Flask, HTML/CSS, Vercel | Temporary file-sharing web application supporting up to 25MB uploads. Engineered a thread-safe background daemon task running every 60 seconds to automatically purge expired files and in-memory dictionary data after 15 minutes. |
 
 
-### Go CLIs (Concurrency & Systems)
+### Go Systems & Concurrency Engineering
 
 | Project | Tech Stack | Technical Highlights & Impact |
 | :--- | :--- | :--- |
@@ -75,11 +75,13 @@
 -->
 ---
 
+
 ## GitHub Stats  
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilanshucodes&theme=github_dark" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilanshucodes&theme=github_dark" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilanshucodes&theme=github_dark&exclude=javascript,html,css" height="150"/>
 </p>
+
 
 ---
 
