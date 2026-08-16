@@ -79,7 +79,7 @@
 ## GitHub Stats  
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilanshucodes&theme=github_dark" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilanshucodes&theme=github_dark&exclude=javascript,html,css" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilanshucodes&theme=github_dark&exclude=javascript,html,css,cpp" height="150"/>
 </p>
 
 
